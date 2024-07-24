@@ -1,0 +1,1 @@
+export const explorerlink = "https://www.kafirchain.my.id/#/Kafirchain%20Testnet/tx/";
