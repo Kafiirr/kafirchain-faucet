@@ -1,1 +1,1 @@
-export const divelink = "https://kafirchainweb3.framer.website";
+export const explorerlink = "https://explorer.kafirchain.site/#/Kafirchain%20Testnet";
