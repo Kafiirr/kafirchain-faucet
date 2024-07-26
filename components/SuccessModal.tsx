@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { explorerlink } from "./links";
+import { divelink } from "./links";
 
 type Props = {
   message: string;
@@ -33,7 +33,7 @@ export default function SuccessModal(props: Props) {
                     Transaction Successful
                   </h3>
                   <div className="mt-2">
-                  <Link href={explorerlink+message} className="no-underline hover:underline" rel="noopener noreferrer" target="_blank">View at Explorer</Link>
+                  <Link href={divelink+message} className="no-underline hover:underline" rel="noopener noreferrer" target="_blank">Explore Kafirchain Ecosystem</Link>
                   </div>
                 </div>
               </div>
