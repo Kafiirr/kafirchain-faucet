@@ -48,7 +48,7 @@ export default function Faucet() {
         <div className="flex min-h-full items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
           <div className="w-full space-y-8">
             <div>
-              <img className="mx-auto h-[70px] w-15" src="logo.png" alt="$hETH Faucet" />
+              <img className="mx-auto h-[70px] w-15" src="logo.png" alt="$KFR Faucet" />
               <h2 className="mt-2 text-center text-2xl font-bold tracking-tight text-gray-300">$KFR Faucet</h2>
             </div>
             <form className="mt-1 space-y-6" onSubmit={handleSubmit}>
