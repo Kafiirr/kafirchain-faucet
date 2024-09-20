@@ -1,1 +1,1 @@
-export const explorerlink = "https://evm-explorer.kafirchain.site/tx/";
+export const explorerlink = "https://blockscan-evm.kafirchain.site/tx/";
