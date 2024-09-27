@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>©2024: Kafirchain</title>
+        <title>Kafirchain Faucet</title>
         <meta name="description" content="$hETH Faucet" />
         <meta name="viewport" content="width=device-width, initial-scale=0.1" />
         <link rel="icon" href="/logo.png" />
