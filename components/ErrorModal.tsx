@@ -28,7 +28,7 @@ export default function ErrorModal(props: Props) {
                 </div>
                 <div className="mt-3 text-center sm:mt-5">
                   <h3 className="text-lg font-medium leading-6 text-gray-900" id="modal-title">
-                    Something Wrong!
+                    Hold Up!
                   </h3>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500 break-words">{message}</p>
